@@ -163,7 +163,7 @@
 
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
-| white_circle: https://github.com/hootlex/laravel-friendships |..|..
+| :white_circle: https://github.com/hootlex/laravel-friendships |..|..
 
 :radio_button: form
 
