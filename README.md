@@ -159,6 +159,12 @@
 
 # f
 
+:radio_button: friendship
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+| white_circle: https://github.com/hootlex/laravel-friendships |..|..
+
 :radio_button: form
 
 | Package Name        | Download           | star  |
