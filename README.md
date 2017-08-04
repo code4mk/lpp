@@ -134,7 +134,7 @@
 
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
-|:white_circle: https://github.com/yajra/laravel-datatables |![Total Downloads](https://img.shields.io/packagist/dt/yajra/laravel-datatables-oracle.svg)|..
+|:white_circle: https://github.com/yajra/laravel-datatables |![Total Downloads](https://img.shields.io/packagist/dt/yajra/laravel-datatables-oracle.svg)|[![star this repo](http://githubbadges.com/star.svg?user=yajra&repo=laravel-datatables&style=default)](https://github.com/yajra/laravel-datatables)
 |:white_circle: https://github.com/yajra/laravel-datatables-buttons |![Total Downloads](https://img.shields.io/packagist/dt/yajra/laravel-datatables-buttons.svg)|..
 
 
