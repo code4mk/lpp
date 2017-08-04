@@ -423,6 +423,8 @@
 |:white_circle: https://github.com/teepluss/laravel-theme | ....|...
 
 :radio_button: translate
+
+
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
 | :white_circle: https://github.com/barryvdh/laravel-translation-manager |..|..
