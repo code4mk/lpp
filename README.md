@@ -91,6 +91,15 @@
 |:white_circle: https://github.com/khsing/laravel-world |..|..
 |:white_circle: https://github.com/DougSisk/laravel-country-state |..|..
 
+:radio_button: chart / grap
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+| :white_circle: https://github.com/ConsoleTVs/Charts |..|
+| :white_circle: https://github.com/kevinkhill/lavacharts |..|
+| :white_circle: https://github.com/fxcosta/laravel-chartjs |..|
+| :white_circle: https://github.com/msurguy/laravel-charts |..|
+
 
 # d
 
@@ -250,6 +259,7 @@
 | ------------- |:-------------:| -----:|
 |:white_circle: https://github.com/caffeinated/menus |.....|....
 |:white_circle: https://github.com/pingpong-labs/menus |.....|....
+| :white_circle: https://github.com/msurguy/laravel-shop-menu |..|..
 
 :radio_button: meta tag
 
