@@ -152,7 +152,7 @@
 
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
-|:white_circle: https://github.com/barryvdh/laravel-elfinder |[![Total Downloads](https://poser.pugx.org/barryvdh/laravel-elfinder/d/total.png)](https://packagist.org/packages/barryvdh/laravel-elfinder)|..
+|:white_circle: https://github.com/barryvdh/laravel-elfinder |[![Total Downloads](https://poser.pugx.org/barryvdh/laravel-elfinder/d/total.png)](https://packagist.org/packages/barryvdh/laravel-elfinder)|[![star this repo](http://githubbadges.com/star.svg?user=barryvdh&repo=laravel-elfinder&style=flat)](https://github.com/barryvdh/laravel-elfinder)
 
 :radio_button:ecommerce
 ---
