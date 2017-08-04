@@ -85,6 +85,7 @@
 | :white_circle: https://github.com/farhanwazir/laravelgooglemaps |..|..
 | :white_circle: https://github.com/nahid/talk |..|..
 | :white_circle: https://github.com/inkrement/l4-messenger |..|..
+| :white_circle: https://github.com/andheiberg/laravel-messenger |..|..
 | :white_circle: https://github.com/gerardojbaez/messenger |..|..
 | :white_circle: https://github.com/dazzz1er/confer |..|..
 
@@ -325,6 +326,16 @@
 # o
 
 # p
+
+:radio_button: paginate / paginator
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+| :white_circle: https://github.com/spatie/laravel-paginateroute |..|..
+| :white_circle: https://github.com/Landish/Pagination |..|..
+| :white_circle: https://github.com/spatie/laravel-json-api-paginate |..|..
+| :white_circle: https://github.com/DeSmart/pagination |..|..
+| :white_circle: https://github.com/Askedio/laravel-item-paginate |..|..
 
 :radio_button:phone / world-wide
 
