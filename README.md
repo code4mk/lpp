@@ -135,7 +135,7 @@
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
 |:white_circle: https://github.com/yajra/laravel-datatables |![Total Downloads](https://img.shields.io/packagist/dt/yajra/laravel-datatables-oracle.svg)|..
-|:white_circle: https://github.com/yajra/laravel-datatables-buttons |..|..
+|:white_circle: https://github.com/yajra/laravel-datatables-buttons |https://img.shields.io/packagist/dt/yajra/laravel-datatables-buttons.svg|..
 
 
 :radio_button: database
