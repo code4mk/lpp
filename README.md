@@ -79,6 +79,14 @@
 # c
 
 
+:radio_button: calendar
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+| :white_circle: https://github.com/maddhatter/laravel-fullcalendar |..|..
+| :white_circle: https://github.com/spatie/laravel-google-calendar |..|..
+
+
+
 
 :radio_button:country
 
@@ -280,6 +288,15 @@
 |:white_circle: https://github.com/nWidart/laravel-modules |....|...
 |:white_circle: https://github.com/mrabbani/laravel_module_manager |....|...
 |:white_circle: https://github.com/caffeinated/modules |....|...
+
+
+:radio_button: map / google map
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+| :white_circle: https://github.com/bradcornford/Googlmapper |..|..
+| :white_circle: https://github.com/alexpechkarev/google-maps |..|..
+| :white_circle: https://github.com/farhanwazir/laravelgooglemaps |..|..
 
 # n
 :radio_button: notification
