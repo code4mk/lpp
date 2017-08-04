@@ -142,7 +142,7 @@
 
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
-|:white_circle:https://github.com/doctrine/dbal |![Total Downloads](https://img.shields.io/packagist/dt/doctrine/dbal.svg)|..
+|:white_circle:https://github.com/doctrine/dbal |![Total Downloads](https://img.shields.io/packagist/dt/doctrine/dbal.svg)|[![star this repo](http://githubbadges.com/star.svg?user=doctrine&repo=dbal&style=default)](https://github.com/doctrine/dbal)
 
 # e
 
