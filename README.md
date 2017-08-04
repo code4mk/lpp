@@ -123,6 +123,12 @@
 
 # d
 
+:radio_button: date
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle: https://github.com/jenssegers/date |[![Total Downloads](https://poser.pugx.org/jenssegers/date/downloads)](https://packagist.org/packages/jenssegers/date)|..
+
 
 :radio_button:datatable button
 
