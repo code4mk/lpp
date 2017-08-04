@@ -95,10 +95,10 @@
 
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
-| :white_circle: https://github.com/ConsoleTVs/Charts |..|
-| :white_circle: https://github.com/kevinkhill/lavacharts |..|
-| :white_circle: https://github.com/fxcosta/laravel-chartjs |..|
-| :white_circle: https://github.com/msurguy/laravel-charts |..|
+| :white_circle: https://github.com/ConsoleTVs/Charts |..|..
+| :white_circle: https://github.com/kevinkhill/lavacharts |..|..
+| :white_circle: https://github.com/fxcosta/laravel-chartjs |..|..
+| :white_circle: https://github.com/msurguy/laravel-charts |..|..
 
 
 # d
