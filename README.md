@@ -90,6 +90,13 @@
 | ------------- |:-------------:| -----:|
 |:white_circle: https://github.com/cybercog/laravel-ban |..|..
 
+:radio_button: breadcrumbs
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle: https://github.com/davejamesmiller/laravel-breadcrumbs |..|..
+|:white_circle: https://github.com/creitive/laravel5-breadcrumbs |..|..
+|:white_circle: https://github.com/dwightwatson/breadcrumbs |..|..
 
 # c
 
