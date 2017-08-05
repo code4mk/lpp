@@ -138,7 +138,18 @@
 
 :radio_button: cdn
 
-https://github.com/Vinelab/laravel-editor
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|;white_circle: https://github.com/Vinelab/laravel-editor |..|..
+
+:radio_button: cache / caching / response
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle: https://github.com/spatie/laravel-responsecache |..|..
+|:white_circle: https://github.com/morilog/InfinityCache |..|..
+|:white_circle: https://github.com/barryvdh/laravel-httpcache |..|..
+|:white_circle: https://github.com/TheMonkeys/laravel-blade-cache-filter |..|..
 
 # d
 
@@ -293,6 +304,14 @@ https://github.com/Vinelab/laravel-editor
 |:white_circle: https://github.com/spatie/laravel-activitylog |..|..
 |:white_circle: https://github.com/owen-it/laravel-auditing |..|..
 |:white_circle: https://github.com/Regulus343/ActivityLog |..|..
+
+:radio_button: like
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle: https://github.com/rtconner/laravel-likeable |..|..
+|:white_circle: https://github.com/risul3/laravel-like-comment |..|..
+|:white_circle: https://github.com/cybercog/laravel-likeable |..|..
 
 # m
 
