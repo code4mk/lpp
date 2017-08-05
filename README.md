@@ -453,9 +453,16 @@
 :radio_button: password
 
 | Package Name        | Download           | star  |
-| ------------- |:-------------:| -----:|\
+| ------------- |:-------------:| -----:|
 | ;white_circle: https://github.com/unicodeveloper/laravel-password |..|..
 | ;white_circle: https://github.com/schuppo/PasswordStrengthPackage |..|..
+
+:radio_button: proxy
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle: https://github.com/fideloper/TrustedProxy |..|..
+|:white_circle: https://github.com/thinkingmik/api-proxy-laravel |..|..
 
 :radio_button: paginate / paginator
 
@@ -549,7 +556,7 @@
 | ------------- |:-------------:| -----:|
 |:white_circle: https://github.com/sebastiaanluca/laravel-conditional-providers|....|....
 
-:radio_button: sortable
+:radio_button: sortable / sorting / sort
 
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
@@ -558,6 +565,7 @@
 |:white_circle: https://github.com/boxfrommars/rutorika-sortable |....|...
 |:white_circle: https://github.com/Kyslik/column-sortable |....|...
 |:white_circle: https://github.com/jedrzej/sortable |....|...
+| :white_circle: https://github.com/lookitsatravis/listify |..|..
 
 :radio_button: setting
 
