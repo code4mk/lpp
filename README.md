@@ -351,6 +351,7 @@
 # m
 
 :radio_button: moderation
+
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
 |:white_circle: https://github.com/hootlex/laravel-moderation |..|..
@@ -461,8 +462,8 @@
 
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
-| ;white_circle: https://github.com/unicodeveloper/laravel-password |..|..
-| ;white_circle: https://github.com/schuppo/PasswordStrengthPackage |..|..
+| :white_circle: https://github.com/unicodeveloper/laravel-password |..|..
+| :white_circle: https://github.com/schuppo/PasswordStrengthPackage |..|..
 
 :radio_button: proxy
 
