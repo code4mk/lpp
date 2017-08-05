@@ -664,6 +664,14 @@
 |:white_circle: https://github.com/erikgall/eloquent-phpunit |...|..
 |:white_circle: https://github.com/laravel/browser-kit-testing |..|..
 
+:radio_button: twitter
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+| :white_circle: https://github.com/thujohn/twitter |..|..
+| :white_circle: https://github.com/spatie/laravel-twitter-streaming-api |..|..
+| :white_circle: https://github.com/PhiloNL/Laravel-Twitter |..|..
+
 # u
 :radio_button:uuid
 
