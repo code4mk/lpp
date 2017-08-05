@@ -246,6 +246,14 @@
 
 # g
 
+:radio_button: gep-ip / location
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle: https://github.com/Torann/laravel-geoip |..|..
+|:white_circle: https://github.com/pulkitjalan/geoip |..|..
+|:white_circle: https://github.com/stevebauman/location |..|..
+
 :radio_button:gravater
 
 | Package Name        | Download           | star  |
@@ -275,7 +283,7 @@
 
 # i
 
-:radio_button:ip / block / firewall
+:radio_button: ip / block / firewall
 
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
