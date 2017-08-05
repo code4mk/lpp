@@ -490,6 +490,13 @@ https://github.com/Vinelab/laravel-editor
 |:white_circle: https://github.com/cviebrock/eloquent-sluggable |....|.....
 |:white_circle: https://github.com/spatie/laravel-sluggable |....|.....
 
+:radio_button: slider
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle: https://github.com/pratik007kumar/laravel-slider |..|..
+|:white_circle: https://github.com/Edofre/laravel-slider-pro |..|..
+
 # t
 
 :radio_button:tags
