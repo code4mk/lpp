@@ -140,7 +140,7 @@
 
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
-|;white_circle: https://github.com/Vinelab/laravel-editor |..|..
+|:white_circle: https://github.com/Vinelab/laravel-editor |..|..
 
 :radio_button: cache / caching / response
 
