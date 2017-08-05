@@ -343,6 +343,12 @@
 
 # m
 
+:radio_button: moderation
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle: https://github.com/hootlex/laravel-moderation |..|..
+
+
 :radio_button:monitor
 
 | Package Name        | Download           | star  |
