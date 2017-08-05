@@ -444,6 +444,13 @@
 
 # p
 
+:radio_button: password
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|\
+| ;white_circle: https://github.com/unicodeveloper/laravel-password |..|..
+| ;white_circle: https://github.com/schuppo/PasswordStrengthPackage |..|..
+
 :radio_button: paginate / paginator
 
 | Package Name        | Download           | star  |
