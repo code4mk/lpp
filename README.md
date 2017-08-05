@@ -281,6 +281,16 @@
 | ------------- |:-------------:| -----:|
 |:white_circle: https://github.com/sebastiaanluca/laravel-helpers |..|..
 
+:radio_button: hashids / hashing
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle: https://github.com/vinkla/laravel-hashids | ..|..
+|:white_circle: https://github.com/Torann/laravel-hashids | ..|..
+|:white_circle: https://github.com/mitchellvanw/hashids | ..|..
+|:white_circle: https://github.com/robclancy/laravel4-hashing | ..|..
+|:white_circle: https://github.com/mikemclin/laravel-wp-password | ..|..
+
 # i
 
 :radio_button: ip / block / firewall
