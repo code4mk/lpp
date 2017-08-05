@@ -605,6 +605,7 @@
 |:white_circle: https://github.com/dwightwatson/testing |...|..
 | :white_circle: https://github.com/Modelizer/Laravel-Selenium |..|..
 |:white_circle: https://github.com/erikgall/eloquent-phpunit |...|..
+|:white_circle: https://github.com/laravel/browser-kit-testing |..|..
 
 # u
 :radio_button:uuid
