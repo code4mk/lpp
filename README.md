@@ -671,6 +671,13 @@
 | ------------- |:-------------:| -----:|
 |:white_circle: https://github.com/webpatser/laravel-uuid |....|....
 
+:radio_button: url
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle: https://github.com/spatie/laravel-url-signer |..|..
+
+
 # v
 
 :radio_button: video / vimeo / youtube
