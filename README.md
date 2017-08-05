@@ -75,13 +75,21 @@
 
 # b
 
-:radio_button: Backup
+:radio_button: backup
 
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
 |:white_circle: https://github.com/spatie/laravel-backup |..|..
 |:white_circle: https://github.com/backup-manager/laravel |..|..
 |:white_circle: https://github.com/vinkla/laravel-backup |..|..
+
+
+:radio_button: ban
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle: https://github.com/cybercog/laravel-ban |..|..
+
 
 # c
 
@@ -206,6 +214,14 @@ https://github.com/Vinelab/laravel-editor
 | ------------- |:-------------:| -----:|
 |:white_circle: https://github.com/LaravelCollective/html |..|..
 |:white_circle: https://github.com/kristijanhusak/laravel-form-builder |..|..
+
+:radio_button: forum
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+| :white_circle: https://github.com/thedevdojo/chatter |..|..
+| :white_circle: https://github.com/socieboy/forum |..|..
+| :white_circle: https://github.com/Riari/laravel-forum |..|..
 
 # g
 
@@ -364,7 +380,20 @@ https://github.com/Vinelab/laravel-editor
 |:white_circle: https://github.com/berkayk/laravel-onesignal |....|...
 |:white_circle: https://github.com/tricki/laravel-notification |....|...
 
+:radio_button: news-letter
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+| :white_circle: https://github.com/spatie/laravel-newsletter |..|..
+
 # o
+
+:radio_button: ownership
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+| :white_circle: https://github.com/cybercog/laravel-ban |..|..
+| :white_circle: https://github.com/kenarkose/Ownable |..|..
 
 # p
 
@@ -473,6 +502,7 @@ https://github.com/Vinelab/laravel-editor
 |:white_circle: https://github.com/anlutro/laravel-settings |....|...
 |:white_circle: https://github.com/Laravel-Backpack/Settings |....|...
 |:white_circle: https://github.com/UniSharp/laravel-settings |....|...
+| :white_circle: https://github.com/edvinaskrucas/settings |..|..
 
 :radio_button: schema helper
 
@@ -521,6 +551,7 @@ https://github.com/Vinelab/laravel-editor
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
 |:white_circle: https://github.com/mpociot/teamwork | .....| ...
+|:white_circle: https://github.com/rossedman/teamwork |..|..
 
 :radio_button:themes
 
@@ -560,6 +591,15 @@ https://github.com/Vinelab/laravel-editor
 |:white_circle: https://github.com/vinkla/laravel-vimeo |...|...
 |:white_circle: https://github.com/alaouy/Youtube |...|...
 |:white_circle: https://github.com/JoeDawson/youtube |...|...
+
+:radio_button: verfication / user / email
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle: https://github.com/jrean/laravel-user-verification |..|..
+|:white_circle: https://github.com/edvinaskrucas/laravel-user-email-verification |..|..
+|:white_circle: https://github.com/Toddish/Verify-L4 |..|..
+
 
 # w
 
@@ -638,3 +678,13 @@ https://github.com/Vinelab/laravel-editor
 | ------------- |:-------------:| -----:|
 
 * https://github.com/composer/installers
+
+:radio_button: some project list
+
+| Package Name        | star  |
+| ------------- | -----:|
+| :white_circle:https://github.com/ladybirdweb/faveo-helpdesk |..
+| :white_circle: https://github.com/CachetHQ/Cachet |..
+| :white_circle: https://github.com/monicahq/monica |..
+| :white_circle: https://github.com/laracasts/Lets-Build-a-Forum-in-Laravel |..
+| :white_circle: https://github.com/laracasts/Email-Verification-In-Laravel |..
