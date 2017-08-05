@@ -66,6 +66,13 @@
 | ------------- |:-------------:| -----:|
 |:white_circle: https://github.com/mpociot/laravel-face-auth |..|..
 
+
+:radio_button: api
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+| :white_circle: https://github.com/DarkaOnLine/L5-Swagger |..|..
+
 # b
 
 :radio_button: Backup
@@ -121,6 +128,10 @@
 | :white_circle: https://github.com/msurguy/laravel-charts |..|..
 
 
+:radio_button: cdn
+
+https://github.com/Vinelab/laravel-editor
+
 # d
 
 :radio_button: date
@@ -147,6 +158,24 @@
 # e
 
 
+:radio_button: editor
+
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle: https://github.com/UniSharp/laravel-ckeditor |..|..
+|:white_circle: https://github.com/Vinelab/laravel-editor |..|..
+|:white_circle: https://github.com/douyasi/laravel-editor-md |..|..
+|:white_circle: https://github.com/guillermomartinez/filemanager-laravel |..|..
+
+
+:radio_button: env dynamic
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+| :white_circle: https://github.com/Brotzka/laravel-dotenv-editor |..|..
+| :white_circle: https://github.com/thinksaydo/envtenant |..|..
+| :white_circle: https://github.com/leemason/tenantable |..|..
 
 :radio_button: elfinder
 
@@ -278,7 +307,7 @@
 
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
-| :white_circle: https://github.com/laravel24/media-manager | 123456 | 0000
+| :white_circle: https://github.com/talvbansal/media-manager | 123456 | 0000
 | :white_circle: https://github.com/ctf0/Laravel-Media-Manager | [![Total Downloads](https://poser.pugx.org/ctf0/media-manager/downloads)](https://packagist.org/packages/ctf0/media-manager) | 0000
 | :white_circle: https://github.com/spatie/laravel-medialibrary | [![Total Downloads](https://poser.pugx.org/spatie/laravel-medialibrary/downloads)](https://packagist.org/packages/spatie/laravel-medialibrary) | 0000
 | :white_circle: https://github.com/UniSharp/laravel-filemanager | [![Total Downloads](https://poser.pugx.org/unisharp/laravel-filemanager/downloads)](https://packagist.org/packages/unisharp/laravel-filemanager) | 0000
