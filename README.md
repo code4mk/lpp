@@ -447,6 +447,10 @@
 | ------------- |:-------------:| -----:|
 |:white_circle: https://github.com/caffeinated/themes | ....| ....
 
+
+
+
+
 # q
 # r
 :radio_button: routes
@@ -592,6 +596,15 @@
 | :white_circle: https://github.com/vinkla/laravel-translator |..|..
 | :white_circle: https://github.com/Waavi/translation |..|..
 | :white_circle: https://github.com/vsch/laravel-translation-manager |..|..
+
+:radio_button: testing
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+| :white_circle: https://github.com/spatie/phpunit-watcher |..|..
+|:white_circle: https://github.com/dwightwatson/testing |...|..
+| :white_circle: https://github.com/Modelizer/Laravel-Selenium |..|..
+|:white_circle: https://github.com/erikgall/eloquent-phpunit |...|..
 
 # u
 :radio_button:uuid
