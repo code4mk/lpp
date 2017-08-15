@@ -52,7 +52,7 @@
 |:white_circle: https://github.com/prologuephp/alerts | 1234 | 0000
 |:white_circle: https://github.com/laracasts/flash | 1234 | 0000
 
-:radio_button: Active
+:radio_button: active
 
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
@@ -72,6 +72,13 @@
 | Package Name        | Download           | star  |
 | ------------- |:-------------:| -----:|
 | :white_circle: https://github.com/DarkaOnLine/L5-Swagger |..|..
+
+
+:radio_button: admin
+
+| Package Name        | Download           | star  |
+| ------------- |:-------------:| -----:|
+|:white_circle:https://github.com/adminarchitect/core |...|...
 
 # b
 
